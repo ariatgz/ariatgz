@@ -1,6 +1,4 @@
-# Welcome to Ariatgz's GitHub! 🛸
-
-![Banner Image](https://via.placeholder.com/1000x250.png?text=Insert+Custom+Stewie+Griffin+Banner+Here)
+# Welcome to Arya's GitHub! 🛸
 
 ## 🏆 GitHub Stats
 ![Ariatgz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariatgz&show_icons=true&theme=dark)
@@ -13,21 +11,18 @@
 - **[Project Name 3](#)**: Add more projects here, with links and details!
 
 ## 🎨 Tools for My Schemes
-![Python](https://img.shields.io/badge/-Python-blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![C++](https://img.shields.io/badge/-C++-blue)
+![C](https://img.shields.io/badge/-C-green)
+![Java](https://img.shields.io/badge/-Java-red)
 ![React](https://img.shields.io/badge/-React-lightblue)
-![Node.js](https://img.shields.io/badge/-Node.js-green)
-![CSS](https://img.shields.io/badge/-CSS-blueviolet)
-![HTML](https://img.shields.io/badge/-HTML-orange)
+![Assembly](https://img.shields.io/badge/-Assembly-purple)
 
 ## ✨ Fun Widgets
 - Current Time: ![Time](https://img.shields.io/badge/dynamic/json?color=blue&label=Time&query=time&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2Fetc%2Futc)
 - Stewie Quote of the Day: *"Insert witty Stewie quote here!"*
 
 ## 🗨️ Connect with Me
-[![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/-Email-red)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-lightblue)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-lightblue)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/arya-taghizadeh-16b69a230/))
 
 ---
 
