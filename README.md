@@ -14,9 +14,7 @@
 ![React](https://img.shields.io/badge/-React-lightblue)
 ![Assembly](https://img.shields.io/badge/-Assembly-purple)
 
-## ✨ Fun Widgets
-- Current Time: ![Time](https://img.shields.io/badge/dynamic/json?color=blue&label=Time&query=time&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2Fetc%2Futc)
-- Stewie Quote of the Day: *"Insert witty Stewie quote here!"*
+
 
 ## 🗨️ Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-lightblue)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/arya-taghizadeh-16b69a230/))
