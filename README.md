@@ -1,8 +1,5 @@
 # Welcome to Arya's GitHub! 🛸
 
-## 🏆 GitHub Stats
-![Ariatgz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariatgz&show_icons=true&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariatgz&layout=compact&theme=dark)
 
 ## 🚀 World Domination Projects
