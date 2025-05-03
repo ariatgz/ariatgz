@@ -11,4 +11,4 @@
 ![Assembly](https://img.shields.io/badge/-Assembly-purple)
 
 
-> *"What the deuce are you waiting for? Start exploring!"*
+![close up of a man](https://media1.tenor.com/m/re5TT3M0cAkAAAAC/electro-boom-eyebrows.gif)
